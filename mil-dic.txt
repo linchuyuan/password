@@ -23021,7 +23021,7 @@ Norbi
 Nordlicht
 North
 Nostradamus
-Not found
+Notfound
 November
 NuDkuR
 Nubsi
@@ -27544,7 +27544,7 @@ appiah8
 appip79
 appl3pi3
 apple
-apple juice
+applejuice
 apple123
 apple13
 apple435
@@ -31988,7 +31988,7 @@ brushes
 brusky
 bruslia
 bruso
-brute force
+bruteforce
 brutus11
 brux
 bruxa03
@@ -33193,7 +33193,7 @@ carotina
 carotino
 carp06
 carpe
-carpe diem
+carpediem
 carped
 carpediem
 carpenter
@@ -33889,7 +33889,7 @@ chedd2te
 chee8407
 cheech
 cheefatt
-cheer up
+cheerup
 cheese
 cheese3
 cheeseburger
@@ -41925,7 +41925,7 @@ firmacif
 firo3176
 firsich
 first
-first post
+firstpost
 first0ne
 firstcu
 firstoct
@@ -46315,8 +46315,8 @@ hellhack
 hellkill
 hellno
 hello
-hello there
-hello world
+hellothere
+helloworld
 hello!
 hello01
 hello1
@@ -50281,7 +50281,7 @@ johans
 johanv
 johhn
 john
-john doe
+johndoe
 john0268
 john0815
 john12
@@ -62245,7 +62245,7 @@ nnpj3185
 nnqme4yn
 nns8hh1o
 nnw3lod2
-no one
+noone
 no12zu38
 no13se94
 no198000
@@ -62494,7 +62494,7 @@ nospoon
 nosstiti
 nostromo
 nosugar
-not found
+notfound
 not2me
 not4che
 not4ne1
@@ -63521,8 +63521,8 @@ opelclub
 opelgsi
 opelgt
 open
-open door
-open sesame
+opendoor
+opensesame
 open0401
 open123
 open15
@@ -72452,7 +72452,7 @@ shokofe
 shomar
 shonborn
 shonut
-shook up
+shookup
 shookem
 shooter
 shop
@@ -77889,7 +77889,7 @@ trorikev
 trortam
 trotzo
 trou69
-trouble maker
+troublemaker
 trovila
 trowssap
 troxia

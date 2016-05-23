@@ -29127,7 +29127,7 @@ belittler
 belive
 belize
 bell
-bell core
+bellcore
 bella
 bellabella
 bellacoola
@@ -29278,7 +29278,7 @@ belton
 beltran
 beltsville
 beltway
-beltway bandit
+beltwaybandit
 beltwaybandit
 beltwise
 beluchi
@@ -37138,7 +37138,7 @@ budzat
 bue
 buena
 buenos
-buenos aires
+buenosaires
 buenosaires
 buettneria
 buettneriaceae
@@ -42120,7 +42120,7 @@ carshop
 carsick
 carsmith
 carson
-carson city
+carsoncity
 carsoncity
 cart
 carta
@@ -58875,8 +58875,8 @@ cossnent
 cossyrite
 cost
 costa
-costa rica
-costa rican
+costarica
+costarican
 costaea
 costai
 costal
@@ -79970,8 +79970,8 @@ easily
 easiness
 easing
 east
-east german
-east germany
+eastgerman
+eastgermany
 eastabout
 eastbound
 easter
@@ -106857,7 +106857,7 @@ greasily
 greasiness
 greasy
 great
-great falls
+greatfalls
 greatcoat
 greatcoated
 greaten
@@ -123508,7 +123508,7 @@ india
 indiadem
 indiaman
 indian
-indian hill
+indianhill
 indiana
 indianaite
 indianan
@@ -128962,7 +128962,7 @@ invaginate
 invagination
 invalescence
 invalid
-invalid password
+invalidpassword
 invalida
 invalidate
 invalidation
@@ -131202,7 +131202,7 @@ ivorine
 ivoriness
 ivorist
 ivory
-ivory coast
+ivorycoast
 ivorycoast
 ivorylike
 ivorytype
@@ -131903,7 +131903,7 @@ jeff
 jefferey
 jefferisite
 jefferson
-jefferson city
+jeffersoncity
 jeffersoncity
 jeffersonia
 jeffersonian
@@ -135730,7 +135730,7 @@ kshatriya
 kshatriyahood
 ku
 kua
-kuala lampur
+kualalampur
 kualalampur
 kuan
 kuar
@@ -137537,7 +137537,7 @@ laryngovestibulitis
 larynx
 laryssa
 las
-las vegas
+lasvegas
 lasa
 lasagna
 lasagne
@@ -141573,7 +141573,7 @@ litterer
 littermate
 littery
 little
-little rock
+littlerock
 littleleaf
 littleneck
 littleness
@@ -142642,7 +142642,7 @@ lors
 lorum
 lory
 los
-los angeles
+losangeles
 losable
 losableness
 losangeles
@@ -151422,7 +151422,7 @@ mexica
 mexican
 mexicanize
 mexico
-mexico city
+mexicocity
 mexicocity
 mexitl
 mexitli
@@ -158165,7 +158165,7 @@ murphy
 murra
 murrain
 murray
-murray hill
+murrayhill
 murraya
 murrayhill
 murre
@@ -161925,14 +161925,14 @@ nevsa
 nevus
 nevyanskite
 new
-new delhi
-new guinea
-new hampshire
-new jersey
-new mexico
-new orleans
-new york
-new zealand
+newdelhi
+newguinea
+newhampshire
+newjersey
+newmexico
+neworleans
+newyork
+newzealand
 newar
 newari
 newark
@@ -166004,10 +166004,10 @@ norseler
 norseman
 norsk
 north
-north carolina
-north dakota
-north korea
-north vietnam
+northcarolina
+northdakota
+northkorea
+northvietnam
 northampton
 northbound
 northcarolina
@@ -169090,7 +169090,7 @@ okinawa
 oklafalaya
 oklahannali
 oklahoma
-oklahoma city
+oklahomacity
 oklahomacity
 oklahoman
 oko
@@ -178038,7 +178038,7 @@ palmyra
 palmyrene
 palmyrenian
 palo
-palo alto
+paloalto
 paloalto
 palolo
 paloma
@@ -216807,7 +216807,7 @@ rhodanic
 rhodanine
 rhodanthe
 rhode
-rhode island
+rhodeisland
 rhodeisland
 rhodeose
 rhodes
@@ -224083,7 +224083,7 @@ salsolaceae
 salsolaceous
 salsuginous
 salt
-salt lake city
+saltlakecity
 salta
 saltai
 saltammo
@@ -224452,10 +224452,10 @@ samuelson
 samurai
 samydaceae
 san
-san francisco
-san jose
-san marino
-san salvador
+sanfrancisco
+sanjose
+sanmarino
+sansalvador
 sana
 sanability
 sanable
@@ -224780,7 +224780,7 @@ sanson
 sansone
 sant
 santa
-santa fe
+santafe
 santafe
 santal
 santalaceae
@@ -224810,7 +224810,7 @@ santims
 santir
 santit
 santo
-santo domingo
+santodomingo
 santodomingo
 santolina
 santon
@@ -225505,7 +225505,7 @@ sauciness
 saucy
 saud
 saudi
-saudi arabia
+saudiarabia
 saudian
 saudiarabia
 saudra
@@ -237364,7 +237364,7 @@ siering
 siero
 sierozem
 sierra
-sierra leone
+sierraleone
 sierraleone
 sierran
 siesta
@@ -238449,7 +238449,7 @@ sion
 sionite
 siouan
 sioux
-sioux falls
+siouxfalls
 siouxfalls
 siouxie
 sip
@@ -243730,13 +243730,13 @@ soutane
 souter
 souterrain
 south
-south africa
-south african
-south dakota
-south dakotan
-south korea
-south korean
-south vietnam
+southafrica
+southafrican
+southdakota
+southdakotan
+southkorea
+southkorean
+southvietnam
 southafrica
 southafrican
 southampton
@@ -243805,7 +243805,7 @@ sovereignness
 sovereignship
 sovereignty
 soviet
-soviet union
+sovietunion
 sovietdom
 sovietic
 sovietism
@@ -293219,7 +293219,7 @@ upon
 uppard
 uppent
 upper
-upper volta
+uppervolta
 upperch
 upperclassman
 upperclassmen
@@ -295890,7 +295890,7 @@ vatful
 vatic
 vatically
 vatican
-vatican city
+vaticancity
 vaticanal
 vaticancity
 vaticanic
@@ -301686,7 +301686,7 @@ wesleyism
 wesselton
 wessexman
 west
-west virginia
+westvirginia
 westaway
 westbound
 westbrook

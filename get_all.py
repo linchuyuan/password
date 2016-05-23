@@ -27,7 +27,7 @@ def main (args):
 		read = t.read();
 		read = str_replace(read," ","");
 		t.close();
-		t.open(dict +i, "w+");
+		t = open(dict +i, "w+");
 		t.write(read);
 		t.close();
 		f.write(read);
